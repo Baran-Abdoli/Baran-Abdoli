@@ -1,6 +1,5 @@
-## Hi there 👋
-
 <!--Hi, I'm Baran 👋
+
 
 💻 Python Programmer & Technology Enthusiast
 🎓 High School Student — Mathematics & Physics
